@@ -1,5 +1,4 @@
 # Spilt Tea OS
-Reference-style: 
 ![logo]
 
-[logo]: https://github.com/GardnerLiam/spilt-tea/sample.png
+[logo]: https://github.com/GardnerLiam/Spilt-Tea/blob/master/sample.PNG
